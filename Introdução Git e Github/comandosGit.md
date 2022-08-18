@@ -24,4 +24,4 @@ git branch <nome-da-branch>
 ```
 ---
 
-[Clique aqui para ver os restante do post](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)
+[Clique aqui para ver o restante do post](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)

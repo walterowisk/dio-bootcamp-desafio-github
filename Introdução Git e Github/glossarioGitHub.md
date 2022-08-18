@@ -40,4 +40,4 @@ Os aplicativos do GitHub servem para toda a organização e usam sua própria id
 
 -------
 
-[Clique aqui para ver o restanto do Glossário](https://docs.github.com/pt/get-started/quickstart/github-glossary#branch)
+[Clique aqui para ver o restante do Glossário](https://docs.github.com/pt/get-started/quickstart/github-glossary#branch)
