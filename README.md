@@ -11,7 +11,7 @@
 
 ## :floppy_disk: Desafio Repositório Github
 
-### :page_facing_up: Descrição do projeto
+### :page_facing_up: Descrição do Desafio
 
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
@@ -19,7 +19,9 @@ Pré-requisito:
 
 -   Conhecimento Básico em Git e GitHub;
 
-## :bulb: Meu repositório
+## :file_folder: Meu repositório
 
 Como podem ver pelo meu perfil este não é meu primeiro repositório no Github. Já utilizo esta maravilhosa ferramenta em meus estudos há algum tempo.
 Contudo acho importante cumprir todos os desafios do Bootcamp.
+
+:bulb: `Todas as atualizações deste repositório foram feitas por commit no Git Bash`
